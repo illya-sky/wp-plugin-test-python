@@ -1,4 +1,4 @@
-# MPMU plugin test
+# WPMU plugin test
 The Automation test is written on Python using Pytest framework.
 
 The test consist of 3 sets of variables.
